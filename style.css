@@ -65,6 +65,8 @@ body{
         font-weight: 700;
         font-style: italic;
         text-decoration: dotted;
-        text-transform: uppercase;
+        text-transform: lowercase;
+        letter-spacing: 0.2em;
+        word-spacing: 1em;
     }
 
