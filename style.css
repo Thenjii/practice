@@ -62,5 +62,8 @@ body{
 
     .box-1 p{
         font-family: Georgia, 'Times New Roman', Times, serif;
+        font-weight: 700;
+        font-style: italic;
+        
     }
 
