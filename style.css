@@ -88,6 +88,6 @@ body{
 
     .categories ul{
         padding: 0;
-        list-style: square;
+        list-style: none;
     }
 
