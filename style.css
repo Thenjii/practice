@@ -26,7 +26,7 @@ body{
     /* to apply style to a  class, we us a dot*/
 
     .container{
-        width: 500px;
+        width: 800px;
         margin: auto;
     }
 
