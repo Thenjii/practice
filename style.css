@@ -1,3 +1,10 @@
+/* zeros out any default settings
+    *{
+        margin:0
+        padding:0
+    }
+*/
+
 h1{
     color: darkcyan;
 }
@@ -46,6 +53,8 @@ body{
 
         border: 5px red solid;
         border-width: 2px;
+
+        padding-top: 20px;
 
     }
 
