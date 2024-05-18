@@ -26,12 +26,16 @@ body{
     /* to apply style to a  class, we us a dot*/
 
     .container{
-        width: 80%;
+        width: 80%; /*use % so it moves with the size of screen */
+        
         margin: auto;
+        /*margin = space outside the content's boarder 
+        use margin:top right, bottom, and left 
+        eg. margin: 5px 10px 5px 10px = margin: 5px 10px*/
     }
 
     .box-1{
         background-color: #333; color: #fff;
-
+        border-right: 5px red solid;
     }
 
