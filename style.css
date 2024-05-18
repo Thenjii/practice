@@ -104,3 +104,7 @@ body{
         color: rgb(102, 15, 188);
     }
 
+    a:visited{
+        color: white;
+    }
+
