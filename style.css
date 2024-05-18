@@ -53,8 +53,11 @@ body{
 
         border: 5px red solid;
         border-width: 2px;
-
+        
+        /* padding is the space btwn the content and the boarder */
         padding: 20px;
+
+        margin-top: 20px;
 
     }
 
