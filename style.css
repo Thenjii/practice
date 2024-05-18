@@ -8,7 +8,7 @@ where a = element, b = property (what you're doing to  the element) and c = valu
 
 body{
 
-    background-color: blueviolet;
+    background-color: rgb(0, 0, 0);
     color: antiquewhite;
 
     
