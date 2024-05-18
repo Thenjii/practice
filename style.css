@@ -36,7 +36,7 @@ body{
         width: 80%; /*use % so it moves with the size of screen */
         
         margin: auto;
-        /*margin = space outside the content's boarder 
+        /*margin = space btwn the boarder and the edges of the screen 
         use margin:top right, bottom, and left 
         eg. margin: 5px 10px 5px 10px = margin: 5px 10px*/
     }
@@ -57,7 +57,10 @@ body{
         /* padding is the space btwn the content and the boarder */
         padding: 20px;
 
-        margin-top: 20px;
+        margin-top: 20px;        
+    }
 
+    .box-1 p{
+        font font-family: tahoma;
     }
 
