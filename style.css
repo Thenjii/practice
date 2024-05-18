@@ -7,5 +7,9 @@ to apply the style to an element use a{ b : c;}
 where a = element, b = property (what you're doing to  the element) and c = value (what the elements looks like */
 
 body{
+
+    background-color: blueviolet;
+    color: antiquewhite;
+
     
 }
