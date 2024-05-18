@@ -45,5 +45,7 @@ body{
         /* same as top */
 
         border: 5px red solid;
+        border-width: 2px;
+
     }
 
