@@ -19,5 +19,11 @@ body{
 
     line-height: 1.6em;
 
-    
-}
+    }
+
+    /* to apply style to a  class, we us a dot*/
+
+    .box-1{
+        background-color: #333;
+    }
+
