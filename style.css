@@ -74,6 +74,11 @@ body{
         border: 3px dotted #ccc;
         padding: auto;
         margin: 20px 0;
+    }
 
+    .categories{
+        border: 1px #ccc solid;
+        padding: 10px;
+        border-radius: 15px;
     }
 
