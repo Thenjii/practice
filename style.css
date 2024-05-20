@@ -57,7 +57,7 @@ body{
         /* padding is the space btwn the content and the boarder */
         padding: 200px;
 
-        margin-top: 1000px;        
+        margin: 0px;        
     }
 
     .box-1 p{
